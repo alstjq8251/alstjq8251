@@ -20,7 +20,7 @@
 
 ![alstjq8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjq8251&show_icons=true&theme=radical)  
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asd45)](https://solved.ac/asd45)
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asd45)](https://solved.ac/asd45)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjq8251&layout=radical&theme=cobalt)
 
