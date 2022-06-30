@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![alstjq8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjq8251&show_icons=true&theme=radical)  
+|| ||
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asd45)](https://solved.ac/asd45)
