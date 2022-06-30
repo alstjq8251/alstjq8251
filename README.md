@@ -18,7 +18,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asd45)](https://solved.ac/asd45)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjq8251&layout=radical&theme=cobalt)
+
 
 
 
