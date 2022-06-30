@@ -1,7 +1,13 @@
 ### Hi there 👋
+🤔 My Name is Minseop KIM 
+🔭 I’m currently studing language - C.java ...
+🌱 I’m currently learning spring
 
-<!--
-**alstjq8251/alstjq8251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Condition
+![alstjq8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjq8251&show_icons=true&theme=radical)  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asd45)](https://solved.ac/asd45)
 
 Here are some ideas to get you started:
 
@@ -14,7 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alstjq8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjq8251&show_icons=true&theme=radical)  
-|| ||
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asd45)](https://solved.ac/asd45)
