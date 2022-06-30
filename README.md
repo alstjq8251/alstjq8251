@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align=center>### Hi there 👋
 - 🤔 My Name is Minseop KIM 
 - 🔭 I’m currently studing language - C.java ...
 - 🌱 I’m currently learning spring
