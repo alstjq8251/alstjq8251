@@ -3,14 +3,6 @@
 🔭 I’m currently studing language - C.java ...
 🌱 I’m currently learning spring
 
-
-### Condition
-![alstjq8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjq8251&show_icons=true&theme=radical)  
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asd45)](https://solved.ac/asd45)
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,4 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Condition
+![alstjq8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjq8251&show_icons=true&theme=radical)  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asd45)](https://solved.ac/asd45)
+
+Here are some ideas to get you started:
+
+
 
