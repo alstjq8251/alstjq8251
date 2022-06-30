@@ -1,7 +1,8 @@
 <div align=center><h1>👋Hi There</h1></div>
-- 🤔 My Name is Minseop KIM 
-- 🔭 I’m currently studing language - C.java ...
-- 🌱 I’m currently learning spring
+<div align=center> 
+  🤔 My Name is Minseop KIM 
+  🔭 I’m currently studing language - C.java ...
+  🌱 I’m currently learning spring
 
 <div align=center><h1>📚 STACKS</h1></div>
 
