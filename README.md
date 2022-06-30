@@ -15,11 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->![minseop8251's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)   
 ![minseop8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=radical)  
-![minseop8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=merko)  
-![minseop8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=gruvbox)  
-![minseop8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight)  
-![minseop8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=onedark)  
-![minseop8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=cobalt)  
-![minseop8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=synthwave)  
-![minseop8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=highcontrast)  
-![minseop8251s GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dracula)
