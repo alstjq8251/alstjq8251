@@ -9,6 +9,7 @@
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -24,6 +25,8 @@
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/github action-2088FF?style=for-the-badge&logo=github action&logoColor=white">
   <img src="https://img.shields.io/badge/certbot-FFD000?style=for-the-badge&logo=certbot&logoColor=white">
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   
 <div align=center><h1><img src="https://img.shields.io/badge/GitHub Stats-black?style=social&logo=GitHub&logoColor=181717"/>
 </h1></div>
